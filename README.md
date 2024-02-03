@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there! I am Prateek👋🏼:
 🔭 I’m currently working on:<br>- Revamping prescription filling via automated inventory management at Loblaw Pharmacy in Lethbridge, AB.<br><br>👯 I’m looking to collaborate on:<br>- Full stack development projects utilizing my expertise in Java, Python, PHP, C/C++, SQL, JavaScript, and frameworks like React.js and Node.js.<br><br>🤝 I’m looking for help with:<br>- Exploring advanced data mining techniques and algorithms, particularly in optimizing performance and accuracy.<br><br>🌱 I’m currently learning:<br>- Continuously enhancing my skills in data modeling and automation tools, particularly focusing on Python and Shell scripting.<br><br>💬 Ask me about:<br>- My experiences with implementing network protocols using TCP/IP Socket API and my contributions to improving quality of service (QoS) and throughput.<br><br>⚡ Fun fact:<br>- Despite being a pharmacy technician, I find joy in developing software solutions that streamline processes and improve efficiency, both in the healthcare industry and beyond.
 
 
